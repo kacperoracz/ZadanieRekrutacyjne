@@ -1,0 +1,11 @@
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\bin\Debug\netcoreapp2.1\ZadanieRekrutacyjne.deps.json
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\bin\Debug\netcoreapp2.1\ZadanieRekrutacyjne.runtimeconfig.json
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\bin\Debug\netcoreapp2.1\ZadanieRekrutacyjne.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\bin\Debug\netcoreapp2.1\ZadanieRekrutacyjne.dll
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\bin\Debug\netcoreapp2.1\ZadanieRekrutacyjne.pdb
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\netcoreapp2.1\ZadanieRekrutacyjne.csprojAssemblyReference.cache
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\netcoreapp2.1\ZadanieRekrutacyjne.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\netcoreapp2.1\ZadanieRekrutacyjne.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\netcoreapp2.1\ZadanieRekrutacyjne.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\netcoreapp2.1\ZadanieRekrutacyjne.dll
+C:\Users\Kacper\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\obj\Debug\netcoreapp2.1\ZadanieRekrutacyjne.pdb
